@@ -1,4 +1,4 @@
-# Bai-Tap-Multiple-Socket-Connection <br>
+# BÀI TẬP MULTIPLE SOCKET CONNECTION <br>
 Danh sách thành viên: <br>
 23521073 - Hồ Thiện Nhân - Nhóm Trưởng <br>
 24520947 - Phạm Hữu Lầu <br>
